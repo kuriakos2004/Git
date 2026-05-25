@@ -70,7 +70,7 @@
 - Git tags και releases
 - Git hooks και automation
 - Git reflog και bisect
-- Submodules
+- Submodules και subtrees
 
 ### [🚀 Επίπεδο 8: Χαρακτηριστικά GitHub](./08-Χαρακτηριστικά-GitHub/)
 Εκμετάλλευση όλων των δυνατοτήτων του GitHub.
@@ -82,6 +82,7 @@
 - Security features (Dependabot, Code Scanning)
 - GitHub CLI
 - GitHub API
+- GitHub Codespaces
 
 ## Πώς να Χρησιμοποιήσετε αυτό το Αποθετήριο
 
@@ -104,8 +105,8 @@
 - [ ] **Επίπεδο 4**: Απομακρυσμένα Repositories (clone, push, pull, remotes, authentication)
 - [ ] **Επίπεδο 5**: Συνεργασία GitHub (fork, PR, code review, issues)
 - [ ] **Επίπεδο 6**: Προχωρημένα Branches (rebase, cherry-pick, merge strategies, conflicts)
-- [ ] **Επίπεδο 7**: Προχωρημένα Θέματα (stash, reset, revert, tags, reflog, bisect, hooks)
-- [ ] **Επίπεδο 8**: Χαρακτηριστικά GitHub (Actions, Pages, Projects, Security, CLI, Codespaces)
+- [ ] **Επίπεδο 7**: Προχωρημένα Θέματα (stash, reset, revert, tags, reflog, bisect, hooks, submodules)
+- [ ] **Επίπεδο 8**: Χαρακτηριστικά GitHub (Actions, Pages, Projects, Security, CLI, API, Codespaces)
 
 ## 🎯 Μαθησιακά Ορόσημα
 
